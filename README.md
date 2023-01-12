@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sreedevi
-- 👀 I’m interested in Solving problems with Machine learning
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on Python, Machine learning and Data analysis projects
+- 🌱 I love learning new programming languages and acquiring new skills
+- 👀 I’m interested in Machine Learning and Android app development
+- 💞️ I’m looking to collaborate on Python, Machine learning and Data analysis projects, Android apps
 - 📫 How to reach me : www.linkedin.com/in/sreedevi-sasidharan
 
 <!---
